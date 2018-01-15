@@ -1,0 +1,11 @@
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/bin/Debug/netcoreapp2.0/quickSort.deps.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/bin/Debug/netcoreapp2.0/quickSort.runtimeconfig.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/bin/Debug/netcoreapp2.0/quickSort.runtimeconfig.dev.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/bin/Debug/netcoreapp2.0/quickSort.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/bin/Debug/netcoreapp2.0/quickSort.pdb
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.csprojResolveAssemblyReference.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.csproj.CoreCompileInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.AssemblyInfoInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.AssemblyInfo.cs
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/Sorting/quickSort/obj/Debug/netcoreapp2.0/quickSort.pdb

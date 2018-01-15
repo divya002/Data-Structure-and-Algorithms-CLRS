@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickSort", "quickSort.csproj", "{806B3F15-4960-4A56-AC95-199D45C8051B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806B3F15-4960-4A56-AC95-199D45C8051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806B3F15-4960-4A56-AC95-199D45C8051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806B3F15-4960-4A56-AC95-199D45C8051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806B3F15-4960-4A56-AC95-199D45C8051B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
