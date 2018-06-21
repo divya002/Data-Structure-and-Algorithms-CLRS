@@ -12,7 +12,7 @@ var insertionSort=function(arr,aux,n)
   for (var i = 1; i < n; i++)
     {
         
-        var key1 = aux[i];
+        var keyz1 = aux[i];
         var key2 = arr[i];
         var j = i-1;
  

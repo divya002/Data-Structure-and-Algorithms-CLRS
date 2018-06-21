@@ -1,0 +1,11 @@
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/bin/Debug/netcoreapp2.0/DoublyLinkedList.deps.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/bin/Debug/netcoreapp2.0/DoublyLinkedList.runtimeconfig.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/bin/Debug/netcoreapp2.0/DoublyLinkedList.runtimeconfig.dev.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/bin/Debug/netcoreapp2.0/DoublyLinkedList.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/bin/Debug/netcoreapp2.0/DoublyLinkedList.pdb
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.csprojResolveAssemblyReference.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.AssemblyInfoInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.AssemblyInfo.cs
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/DoublyLinkedList/obj/Debug/netcoreapp2.0/DoublyLinkedList.pdb

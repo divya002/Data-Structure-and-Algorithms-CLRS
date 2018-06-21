@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{806B3F15-4960-4A56-AC95-199D45C8051B}|Default">
+﻿<Properties StartupConfiguration="{1BBA7E11-E3D2-4CEB-A8E8-EF85F7306201}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="35" Column="54" />
+      <File FileName="Program.cs" Line="51" Column="1" />
+      <File FileName="../DoublyLinkedList/Program.cs" Line="43" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.quickSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.linkedList PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,11 @@
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.csprojResolveAssemblyReference.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.csproj.CoreCompileInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.AssemblyInfoInputs.cache
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.AssemblyInfo.cs
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/bin/Debug/netcoreapp2.0/linkedList.deps.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/bin/Debug/netcoreapp2.0/linkedList.runtimeconfig.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/bin/Debug/netcoreapp2.0/linkedList.runtimeconfig.dev.json
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/bin/Debug/netcoreapp2.0/linkedList.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/bin/Debug/netcoreapp2.0/linkedList.pdb
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.dll
+/Users/divyaprakash/Documents/VSCodeNode/Algorithms/linkedList/obj/Debug/netcoreapp2.0/linkedList.pdb
